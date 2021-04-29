@@ -6,4 +6,4 @@ Admin area to manage customers, products & orders
 Product rating & review system
 Product search, carousel, pagination & more
 
-https://abbasgproshopapp.herokuapp.com/
+https://shopperon.herokuapp.com/
